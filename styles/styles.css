@@ -1,0 +1,72 @@
+img:hover {
+  background-color: #3f72af;
+  size: 300px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-top-color: #04009a;
+  border-width: 5px;
+  width: 70%;
+}
+
+.start {
+  border-width: 15px;
+  border-top-style: dotted;
+  border-color: #30e3ca;
+  width: 10%;
+}
+
+body {
+  padding: 0px 5% 0px 5%;
+}
+
+.spaced {
+  border-spacing: 18px 0;
+}
+
+#name:hover {
+  color: #a1eafb;
+  font-style: italic;
+  font-size: 25px;
+}
+
+#title0 {
+  font-family: "Times New Roman";
+  border-radius: 10px;
+  margin: 0;
+  font-size: 20px;
+  color: white;
+  background-color: #005691;
+  padding: 20px 8px;
+}
+
+#td-01 {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.title:hover {
+  font-weight: bold;
+  color: #8ef6e4;
+}
+
+.title {
+  font-family: "Times New Roman";
+  font-size: 18px;
+  margin: 0;
+  background-color: #005691;
+  color: white;
+}
+
+#S2 {
+  border-spacing: 15px 0;
+}
+
+#heads {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+  font-family: "Time New Roman";
+}
